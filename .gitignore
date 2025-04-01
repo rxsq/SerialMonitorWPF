@@ -1,0 +1,21 @@
+# Compiled binary files
+*.elf
+*.hex
+*.bin
+
+# Arduino build files
+*.ino.cpp
+build/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files (adjust as needed)
+.vscode/
+.idea/
