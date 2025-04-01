@@ -15,6 +15,10 @@
             <Label Content="COM Port:" VerticalAlignment="Center"/>
             <ComboBox x:Name="comboBoxPorts" Width="150" Margin="5,0"/>
             <Button x:Name="buttonRefresh" Content="Refresh" Margin="5,0"/>
+            <Label Content="Rows:" VerticalAlignment="Center" Margin="20,0,0,0"/>
+            <TextBox x:Name="textBoxRows" Width="40" Text="6" Margin="5,0"/>
+            <Label Content="Columns:" VerticalAlignment="Center" Margin="5,0"/>
+            <TextBox x:Name="textBoxCols" Width="40" Text="8" Margin="5,0"/>
         </StackPanel>
 
         <!-- Connect/Disconnect Button -->
