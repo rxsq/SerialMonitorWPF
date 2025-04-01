@@ -1,0 +1,14 @@
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\bin\Debug\SerialMonitorWPF.exe.config
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\bin\Debug\SerialMonitorWPF.exe
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\bin\Debug\SerialMonitorWPF.pdb
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.csproj.AssemblyReference.cache
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\MainWindow.baml
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\App.g.cs
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF_MarkupCompile.cache
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.g.resources
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.Properties.Resources.resources
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.csproj.GenerateResource.cache
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.exe
+C:\Users\Andrew\source\repos\SerialMonitorWPF\SerialMonitorWPF\obj\Debug\SerialMonitorWPF.pdb

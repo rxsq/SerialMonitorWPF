@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58498253-1B45-42A1-8E12-89AEB940C992}|SerialMonitorWPF\\SerialMonitorWPF.csproj|c:\\users\\andrew\\source\\repos\\serialmonitorwpf\\serialmonitorwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{58498253-1B45-42A1-8E12-89AEB940C992}|SerialMonitorWPF\\SerialMonitorWPF.csproj|solutionrelative:serialmonitorwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58498253-1B45-42A1-8E12-89AEB940C992}|SerialMonitorWPF\\SerialMonitorWPF.csproj|C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\serialmonitorwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58498253-1B45-42A1-8E12-89AEB940C992}|SerialMonitorWPF\\SerialMonitorWPF.csproj|solutionrelative:serialmonitorwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1025111540:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\SerialMonitorWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "SerialMonitorWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\SerialMonitorWPF\\MainWindow.xaml",
+              "RelativeToolTip": "SerialMonitorWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-01T18:38:29.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\SerialMonitorWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "SerialMonitorWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Andrew\\source\\repos\\SerialMonitorWPF\\SerialMonitorWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "SerialMonitorWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:38:27.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
